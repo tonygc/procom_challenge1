@@ -1,6 +1,6 @@
 # procom_challenge1
 Hi There!
-The main script is in index.js file.
+The main script is in index.js file and the array is located in data/index.js
 To run the mencioned file above please run this
     
     node index.js
